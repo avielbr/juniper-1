@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "NTMFS5C628NLT1G")(type "Legacy")(uri "/home/avi/Documents/GitHub/juniper-1/kicad/parts/NTMFS5C628NLT1G/NTMFS5C628NLT1G.lib")(options "")(descr ""))
+  (lib (name "LDL1117S30R")(type "Legacy")(uri "/home/avi/Documents/GitHub/juniper-1/kicad/parts/LDL1117S30R/LDL1117S30R.lib")(options "")(descr ""))
 )
