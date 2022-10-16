@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP32-S2-WROOM")(type "KiCad")(uri "/home/avi/Documents/GitHub/juniper-1/kicad/parts/ESP32-S2-WROOM")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/avi/Documents/GitHub/juniper-1/kicad/parts/ul_TMC6200-TA/KiCAD/2022-10-15_13-33-01/footprints.pretty")(options "")(descr ""))
+)
