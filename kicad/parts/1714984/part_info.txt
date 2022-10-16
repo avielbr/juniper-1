@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1714984
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=3.4
+Released=2016-10-26 10:45:50
+Downloaded=2022-10-16 12:53:34
+3D=Y
